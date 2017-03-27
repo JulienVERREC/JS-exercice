@@ -13,4 +13,9 @@ console.log(mois);
 mois.splice(7,1);
 console.log(mois);
 //exercice 6
-console.log(mois);
+var i = mois
+for(var i=0;i<mois.length;i++){
+	console.log(mois[i]);
+}
+//exercice 7
+var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
