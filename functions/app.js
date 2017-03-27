@@ -3,10 +3,10 @@ function verify(){
 }		
 console.log( verify() );
 //exercice 2
-function returnthis(bar){
+function returnthat(bar){
 	return bar;
 }
-console.log(returnthis("affiche moi ça!"));
+console.log(returnthat("affiche moi ça!"));
 //exercice 3
 function returnthis(bar,foo){
 	return bar+foo;
