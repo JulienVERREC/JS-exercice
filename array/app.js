@@ -23,8 +23,11 @@ var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 array.splice(5,0,"courgette");
 console.log(array);
 //exercice 9
-array.splice(4,0,"citron");
+array[4].push('citron');
 console.log(array);
 //exercice 10
 array.splice(1,1);
+console.log(array);
+//exercice 11
+array.splice(2,0,"poire");
 console.log(array);
