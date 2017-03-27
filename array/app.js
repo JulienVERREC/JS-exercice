@@ -12,3 +12,5 @@ mois.splice(8,0,"août");
 console.log(mois);
 mois.splice(7,1);
 console.log(mois);
+//exercice 6
+console.log(mois);
