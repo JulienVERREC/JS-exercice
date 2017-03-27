@@ -19,3 +19,6 @@ for(var i=0;i<mois.length;i++){
 }
 //exercice 7
 var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+//exercice 8
+array.splice(5,0,"courgette");
+console.log(array);
