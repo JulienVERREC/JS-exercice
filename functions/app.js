@@ -26,3 +26,8 @@ function compar(chiffre1,chiffre2){
 
 }
 console.log(compar(4,4));
+//exercice 5
+function numberCharacter(number,Character){
+	return number+Character
+}
+console.log (numberCharacter(12,"l'age que j'ai"));
