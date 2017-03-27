@@ -5,3 +5,5 @@ console.log(mois);
 console.log(mois[2]);
 //exercice 3
 console.log([4]);
+//exercice 4
+console.log(mois[10]);
