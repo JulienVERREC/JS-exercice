@@ -22,3 +22,6 @@ var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 //exercice 8
 array.splice(5,0,"courgette");
 console.log(array);
+//exercice 9
+array.splice(4,0,"citron");
+console.log(array);
