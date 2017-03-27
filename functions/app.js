@@ -31,3 +31,9 @@ function numberCharacter(number,Character){
 	return number+Character
 }
 console.log (numberCharacter(12,"l'age que j'ai"));
+//exercice 6
+function nomPrenomAge(nom , prenom , age){
+	return "Bonjour "+nom+" "+prenom+" tu as "+age+" ans";
+}
+console.log(nomPrenomAge("Verrecchia","Julien",37));
+
