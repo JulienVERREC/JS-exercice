@@ -25,3 +25,6 @@ console.log(array);
 //exercice 9
 array.splice(4,0,"citron");
 console.log(array);
+//exercice 10
+array.splice(1,1);
+console.log(array);
