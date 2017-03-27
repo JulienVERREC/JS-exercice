@@ -1,4 +1,3 @@
-var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
-var month = ["janvier","fevrier","mars","avril","mai","juin","juillet","aout","septembre","octobre","novembre","dececmbre"];
- console.log(month[2]);
- console.log(month[5]);
+var mois = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+
+console.log(mois);
